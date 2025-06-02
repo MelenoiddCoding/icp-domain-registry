@@ -145,6 +145,10 @@ Valida:
 - 🛡️ **Moderación y gobernanza para dominios especiales**  
   Reservar ciertos nombres (como `admin.icp`, `gov.icp`, `bitcoin.icp`) bajo votación comunitaria o revisión especial para evitar abuso.
 
+---
+![image](https://github.com/user-attachments/assets/afee1c08-dff8-45e0-85c7-cce7994d3d93)
+
+![image](https://github.com/user-attachments/assets/c18e05cd-e7f1-45a2-ac5c-6d8cd713f698)
 
 ---
 
