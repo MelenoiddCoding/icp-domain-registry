@@ -159,4 +159,3 @@ Participante del Bootcamp ICP 2024 🚀
 
 * [Documentación oficial de ICP](https://internetcomputer.org/docs)
 * [Guía de Motoko](https://internetcomputer.org/docs/current/motoko/main/motoko)
-* [Autenticación con Internet Identity](https://identity.ic0.app)
